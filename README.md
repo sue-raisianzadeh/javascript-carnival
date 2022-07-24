@@ -1,6 +1,6 @@
-# Welcome to the JavaScript Carnival!
 
-Welcome to the Javascript Carnival! It's a wonderful place full of exciting games and activities! 
+Welcome to the carnival games! 
+It's a wonderful place full of exciting games and activities! 
 
 There are three carnival games here built using Javascript.
 
