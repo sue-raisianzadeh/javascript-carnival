@@ -11,7 +11,7 @@ var inflation = [0, 0, 0]
 function clicked(event) {
     var unicorn = event.target
     var id = unicorn.id[3]        //gets the number of the unicorn, 3 refers to the
-    //4th character in unicorn id which is the number of the unicorn.
+    //4th character in unicorn id which is the number of the unicorn.//
     var idNumber = Number(id)   
         inflation[id]++
 
@@ -29,4 +29,4 @@ function clicked(event) {
 
         unicorn.src = "./images/unicorn-" + inflation[id] + ".png"  
 }
-//
+
