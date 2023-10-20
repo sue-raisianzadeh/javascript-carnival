@@ -3,7 +3,6 @@
 // -    -   -   -   -  //
 
 document.onkeydown = checkKey;
-
 function checkKey (e) {
   
     if (e.keyCode == '38') {
@@ -25,9 +24,7 @@ function checkKey (e) {
   }
 
     var indexes = [0, 0, 0]
-
     var verticalIndex = 0
-
     var head = document.getElementById("head")
     var body = document.getElementById("body")
     var shoes = document.getElementById("shoes")
