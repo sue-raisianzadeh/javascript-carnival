@@ -22,7 +22,6 @@ function checkKey (e) {
        changeLooks (+1)
     }
   }
-
     var indexes = [0, 0, 0]
     var verticalIndex = 0
     var head = document.getElementById("head")
