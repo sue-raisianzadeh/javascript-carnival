@@ -29,4 +29,3 @@ function clicked(event) {
 
         unicorn.src = "./images/unicorn-" + inflation[id] + ".png"  
 }
-
