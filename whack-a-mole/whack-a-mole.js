@@ -1,8 +1,8 @@
   // -    -   -   -   -  //
  // JAVASCRIPT CARNIVAL //
 // -    -   -   -   -  //
-
 //create variable and store cell reference in it.
+
 var cellRef = document.getElementsByTagName("td");
 var len = cellRef.length;
 let score = 0;
